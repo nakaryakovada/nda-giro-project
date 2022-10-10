@@ -551,16 +551,20 @@ footer {
     font-size: 14px;
     width: 220px;
   }
+  .mailing-form {
+    width: 450px;
+    margin: 0;
+  }
   .mailing-in {
     width: 140px;
-    height: 25px;
+    height: 35px;
     margin-right: 10px;
   }
   .mailing-button {
-    width: 130px;
-    height: 38px;
-    font-size: 12px;
+    width: 140px;
+    height: 35px;
     padding: 10px;
+    font-size: 12px;
   }
   .catalog-products {
     flex-wrap: wrap;
@@ -695,18 +699,19 @@ footer {
     margin-bottom: 15px;
   }
   .mailing-form {
+    width: 450px;
     margin: 0;
   }
   .mailing-in {
     width: 140px;
-    height: 25px;
+    height: 35px;
     margin-right: 10px;
   }
   .mailing-button {
-    width: 130px;
-    height: 38px;
-    font-size: 12px;
+    width: 140px;
+    height: 35px;
     padding: 10px;
+    font-size: 12px;
   }
   .features {
     font-size: 16px;
@@ -880,18 +885,21 @@ footer {
     margin-bottom: 15px;
   }
   .mailing-form {
+    width: 300px;
+    flex-wrap: wrap;
     margin: 0;
   }
   .mailing-in {
     width: 140px;
-    height: 25px;
+    height: 35px;
     margin-right: 10px;
   }
   .mailing-button {
-    width: 130px;
-    height: 38px;
+    width: 140px;
+    height: 35px;
+    padding: 5px;
     font-size: 12px;
-    padding: 10px;
+    margin-top: 10px;
   }
   .features {
     font-size: 16px;
