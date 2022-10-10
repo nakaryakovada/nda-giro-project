@@ -849,6 +849,12 @@ footer {
     border: none;
     cursor: pointer;
   }
+  .is-open {
+    display: block !important;
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+  }
   .advantages-list {
     flex-wrap: wrap;
     margin: auto;
